@@ -221,3 +221,15 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# data, caches, outputs
+starter/data/
+starter/results/
+.venv/
+__pycache__/
+checkpoints/
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+*.npy
